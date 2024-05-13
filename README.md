@@ -1,1 +1,0 @@
-# SWP-Azure-Policy---Security-Baselines
